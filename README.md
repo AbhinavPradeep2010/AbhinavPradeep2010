@@ -1,6 +1,6 @@
 ## 👋 Hey, I’m Abhinav
 
-Grade 10 student who builds things, breaks them, and figures out *why* they broke.
+Grade 11 student who builds things, breaks them, and figures out *why* they broke.
 
 ---
 

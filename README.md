@@ -34,6 +34,7 @@ Lightweight embeddings with small LLM models
 Website that analysis your chess games and roasts you
 Contains analysis, engine lines, move classification, interactive move list, opening database API, etc
 Uses Flask (Python Web Development Framework), JavaScript, HTML, CSS, and Jinja
+🔗 https://github.com/AbhinavPradeep2010/ChessRoast
 
 ---
 
